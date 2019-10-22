@@ -1,0 +1,411 @@
+fetched instruction = 0
+PC = 0
+INSTRUCTION: nop
+_____________________________________________________________
+fetched instruction = 0
+PC = 1
+INSTRUCTION: nop
+_____________________________________________________________
+fetched instruction = 0
+PC = 2
+INSTRUCTION: nop
+_____________________________________________________________
+fetched instruction = 0
+PC = 3
+INSTRUCTION: nop
+_____________________________________________________________
+fetched instruction = 0
+PC = 4
+INSTRUCTION: nop
+_____________________________________________________________
+fetched instruction = C100017
+PC = 5
+INSTRUCTION: jal
+_____________________________________________________________
+fetched instruction = 23BDFFF8
+PC = 23
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = AFBF0000
+PC = 24
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = AFB00004
+PC = 25
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = 20100000
+PC = 26
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 20040002
+PC = 27
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 28
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000005
+PC = 29
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = C100009
+PC = 30
+INSTRUCTION: jal
+_____________________________________________________________
+fetched instruction = 23BDFFF8
+PC = 9
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = AFBF0000
+PC = 10
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = AFA40004
+PC = 11
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 12
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000004
+PC = 13
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = 2084FFFF
+PC = 14
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = C100009
+PC = 15
+INSTRUCTION: jal
+_____________________________________________________________
+fetched instruction = 23BDFFF8
+PC = 9
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = AFBF0000
+PC = 10
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = AFA40004
+PC = 11
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 12
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000004
+PC = 13
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = 2084FFFF
+PC = 14
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = C100009
+PC = 15
+INSTRUCTION: jal
+_____________________________________________________________
+fetched instruction = 23BDFFF8
+PC = 9
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = AFBF0000
+PC = 10
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = AFA40004
+PC = 11
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 12
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000004
+PC = 13
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = 20020000
+PC = 17
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 8FBF0000
+PC = 18
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 8FA40004
+PC = 19
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 23BD0008
+PC = 20
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 441020
+PC = 21
+INSTRUCTION: add
+_____________________________________________________________
+fetched instruction = 3E00008
+PC = 22
+INSTRUCTION: jr
+_____________________________________________________________
+fetched instruction = 8100012
+PC = 16
+INSTRUCTION: j
+_____________________________________________________________
+fetched instruction = 8FBF0000
+PC = 18
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 8FA40004
+PC = 19
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 23BD0008
+PC = 20
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 441020
+PC = 21
+INSTRUCTION: add
+_____________________________________________________________
+fetched instruction = 3E00008
+PC = 22
+INSTRUCTION: jr
+_____________________________________________________________
+fetched instruction = 8100012
+PC = 16
+INSTRUCTION: j
+_____________________________________________________________
+fetched instruction = 8FBF0000
+PC = 18
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 8FA40004
+PC = 19
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 23BD0008
+PC = 20
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 441020
+PC = 21
+INSTRUCTION: add
+_____________________________________________________________
+fetched instruction = 3E00008
+PC = 22
+INSTRUCTION: jr
+_____________________________________________________________
+fetched instruction = 2028020
+PC = 31
+INSTRUCTION: add
+_____________________________________________________________
+fetched instruction = 2084FFFF
+PC = 32
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 810001C
+PC = 33
+INSTRUCTION: j
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 28
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000005
+PC = 29
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = C100009
+PC = 30
+INSTRUCTION: jal
+_____________________________________________________________
+fetched instruction = 23BDFFF8
+PC = 9
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = AFBF0000
+PC = 10
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = AFA40004
+PC = 11
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 12
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000004
+PC = 13
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = 2084FFFF
+PC = 14
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = C100009
+PC = 15
+INSTRUCTION: jal
+_____________________________________________________________
+fetched instruction = 23BDFFF8
+PC = 9
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = AFBF0000
+PC = 10
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = AFA40004
+PC = 11
+INSTRUCTION: sw
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 12
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000004
+PC = 13
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = 20020000
+PC = 17
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 8FBF0000
+PC = 18
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 8FA40004
+PC = 19
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 23BD0008
+PC = 20
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 441020
+PC = 21
+INSTRUCTION: add
+_____________________________________________________________
+fetched instruction = 3E00008
+PC = 22
+INSTRUCTION: jr
+_____________________________________________________________
+fetched instruction = 8100012
+PC = 16
+INSTRUCTION: j
+_____________________________________________________________
+fetched instruction = 8FBF0000
+PC = 18
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 8FA40004
+PC = 19
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 23BD0008
+PC = 20
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 441020
+PC = 21
+INSTRUCTION: add
+_____________________________________________________________
+fetched instruction = 3E00008
+PC = 22
+INSTRUCTION: jr
+_____________________________________________________________
+fetched instruction = 2028020
+PC = 31
+INSTRUCTION: add
+_____________________________________________________________
+fetched instruction = 2084FFFF
+PC = 32
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 810001C
+PC = 33
+INSTRUCTION: j
+_____________________________________________________________
+fetched instruction = 4402A
+PC = 28
+INSTRUCTION: slt
+_____________________________________________________________
+fetched instruction = 11000005
+PC = 29
+INSTRUCTION: beq
+_____________________________________________________________
+fetched instruction = 22020000
+PC = 34
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 8FB00004
+PC = 35
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 8FBF0000
+PC = 36
+INSTRUCTION: lw
+_____________________________________________________________
+fetched instruction = 23BD0008
+PC = 37
+INSTRUCTION: addi
+_____________________________________________________________
+fetched instruction = 3E00008
+PC = 38
+INSTRUCTION: jr
+_____________________________________________________________
+PC value when exiting = 6
+
+			CPU STATS:
+
+	CYCLE COUNTER:
+Cycles executed = 91
+
+
+	INSTRUCTION COUNTER:
+
+R-FORMAT INSTRUCTIONS:
+	add = 7
+	and = 0
+	jr = 6
+	nor = 0
+	or = 0
+	slt = 8
+	sll = 0
+	srl = 0
+	sub = 0
+	sra = 0
+	xor = 0
+	syscall = 0
+	addu = 0
+	Unimplemented R Types = 0
+
+I-FORMAT INSTRUCTIONS:
+	addi = 22
+	andi = 0
+	lui = 0
+	ori = 0
+	slti = 0
+	xori = 0
+	Unimplemented I Types = 0
+
+J-FORMAT INSTRUCTIONS:
+	j = 5
+	jal = 6
+
+SPECIAL TYPES:
+	lw = 12
+	sw = 12
+	beq = 8
+	bne = 0
+	nop = 5
+
+Finished running program...
